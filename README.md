@@ -1,16 +1,22 @@
 # shop_app
 
-A new Flutter project.
+An e-commerce  fashion shop app which works on both iOS and Android devices.
 
 ## Features
 
-This project is a starting point for a Flutter application.
+- Email & Password Authentication
+- Everything Real Time
+- Sign Out
+- Display User Products
+- Display All Products
+- Display Cart Items
+- Display Order Items
+- Display App Drawer
+- Display Editting Products Items
+- Display Favorite Items
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Client: Flutter framework and Provider State Management System
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Server: Firebase Auth Rest API, Firebase RealTime Database.

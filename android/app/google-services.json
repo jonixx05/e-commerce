@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "153290576950",
+    "project_id": "jonix-shop-app",
+    "storage_bucket": "jonix-shop-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153290576950:android:caea71a731d3f865a63497",
+        "android_client_info": {
+          "package_name": "com.example.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153290576950-jtufvs0mibsubqpdrem3ha1gfbejkqvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUK8FU-GU8RMhZKqT9eLV2nm9U6-TMpbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153290576950-jtufvs0mibsubqpdrem3ha1gfbejkqvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
